@@ -1,0 +1,86 @@
+{
+	"name": "Jameson Tate Aranda",
+	"birthday": 700297200,
+	"contact": {
+		"email": "email@jamesonaranda.com",
+		"phone": "801.687.5085",
+		"irc": [
+			{
+				"server": "irc.esper.net",
+				"handle": "kuro_chou"
+			}
+		]
+	},
+	"education": [
+		{
+			"instituion": "Utah Valley University",
+			"graduation": 1525068000,
+			"description": "Undergraduate of computer science and communication."
+		},
+		{
+			"instituion": "Provo High School",
+			"graduation": 1273903200,
+			"description": "Graduate, with emphasis on design and technology."
+		},
+		{
+			"instituion": "Washington School of World Studies",
+			"graduation": 1128924000,
+			"description": "Program graduate, with emphasis on history, leadership, and civil service."
+		}
+	],
+	"work": [
+		{
+			"company": "iPartnr",
+			"title": "Web Application Developer",
+			"dates": {
+				"start": 1437631200,
+				"end": null,
+			},
+			"responsibilities": [
+				"server-side software design and implementation",
+				"client-side interface construction",
+				"website construction from visual specifications",
+				"data analysis",
+				"web property management"
+			]
+		},
+		{
+			"company": "Boostability",
+			"title": "Account Manager",
+			"dates": {
+				"start": 1408514400,
+				"end": 1431669600,
+			},
+			"responsibilities": [
+				"SEO campaign research and management",
+				"inbound and outbound customer service"
+			]
+		},
+		{
+			"company": "Bluehost",
+			"title": "Web Advisor",
+			"dates": {
+				"start": 1357542000,
+				"end": 1402812000,
+			},
+			"responsibilities": [
+				"customer server support",
+				"inbound customer service"
+			]
+		},
+		{
+			"company": "Aviation University",
+			"title": "Jr. Systems Administrator",
+			"dates": {
+				"start": 1310968800,
+				"end": 1347948000,
+			},
+			"responsibilities": [
+				"process automation",
+				"branding & identity",
+				"server aministration",
+				"office IT support"
+			]
+		}
+	]
+}
