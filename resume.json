@@ -14,11 +14,12 @@
 	"education": [
 		{
 			"instituion": "Utah Valley University",
-			"graduation": 1525068000,
+			"start": 1440396000,
 			"description": "Undergraduate of computer science and communication."
 		},
 		{
 			"instituion": "Provo High School",
+			"start": 1156140000,
 			"graduation": 1273903200,
 			"description": "Graduate, with emphasis on design and technology."
 		},
