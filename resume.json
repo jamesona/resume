@@ -5,6 +5,9 @@
 		"contact": {
 			"email": "email@jamesonaranda.com",
 			"phone": "801.687.5085",
+			"site": "https://jamesonaranda.com",
+			"linkedin": "https://linkedin.com/in/jamesonaranda",
+			"github": "https://github.com/jamesona",
 			"irc": [
 				{
 					"server": "irc.esper.net",
