@@ -20,22 +20,38 @@
 		{
 			"instituion": "Provo High School",
 			"start": 1156140000,
-			"graduation": 1273903200,
+			"end": 1273903200,
 			"description": "Graduate, with emphasis on design and technology."
 		},
 		{
 			"instituion": "Washington School of World Studies",
-			"graduation": 1128924000,
+			"start": 1128924000,
+			"end:" 1129356000,
 			"description": "Program graduate, with emphasis on history, leadership, and civil service."
 		}
 	],
 	"work": [
+		
 		{
-			"company": "iPartnr",
+			"company": "Syndigo",
+			"title": "Software Engineer",
+			"dates": {
+				"start": 1437631200,
+				"end": 1592805600,
+			},
+			"responsibilities": [
+				"SaaS front-end software development",
+				"Unit testing",
+				"Refactoring legacy code",
+				"Agile project management"
+			]
+		},
+		{
+			"company": "Trapeze Labs",
 			"title": "Web Application Developer",
 			"dates": {
 				"start": 1437631200,
-				"end": null,
+				"end": 1592546400,
 			},
 			"responsibilities": [
 				"server-side software design and implementation",
