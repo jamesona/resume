@@ -1,26 +1,28 @@
 {
-	"name": "Jameson Tate Aranda",
-	"birthday": 700297200,
-	"contact": {
-		"email": "email@jamesonaranda.com",
-		"phone": "801.687.5085",
-		"irc": [
-			{
-				"server": "irc.esper.net",
-				"handle": "kuro_chou"
-			}
-		]
+	"details": {
+		"name": "Jameson Tate Aranda",
+		"birthday": 700297200,
+		"contact": {
+			"email": "email@jamesonaranda.com",
+			"phone": "801.687.5085",
+			"irc": [
+				{
+					"server": "irc.esper.net",
+					"handle": "kuro_chou"
+				}
+			]
+		}
 	},
 	"education": [
 		{
-			"instituion": "Utah Valley University",
+			"name": "Utah Valley University",
 			"dates": {
 				"start": 1440396000
 			},
 			"description": "Undergraduate of computer science and communication."
 		},
 		{
-			"instituion": "Provo High School",
+			"name": "Provo High School",
 			"dates": {
 				"start": 1156140000,
 				"end": 1273903200
@@ -28,7 +30,7 @@
 			"description": "Graduate, with emphasis on design and technology."
 		},
 		{
-			"instituion": "Washington School of World Studies",
+			"name": "Washington School of World Studies",
 			"dates": {
 				"start": 1128924000,
 				"end": 1129356000
@@ -36,11 +38,11 @@
 			"description": "Program graduate, with emphasis on history, leadership, and civil service."
 		}
 	],
-	"work": [
+	"experience": [
 		
 		{
-			"company": "Syndigo",
-			"title": "Software Engineer",
+			"name": "Syndigo",
+			"role": "Software Engineer",
 			"dates": {
 				"start": 1437631200,
 				"end": 1592805600
@@ -53,8 +55,8 @@
 			]
 		},
 		{
-			"company": "Trapeze Labs",
-			"title": "Web Application Developer",
+			"name": "Trapeze Labs",
+			"role": "Web Application Developer",
 			"dates": {
 				"start": 1437631200,
 				"end": 1592546400
@@ -68,8 +70,8 @@
 			]
 		},
 		{
-			"company": "Boostability",
-			"title": "Account Manager",
+			"name": "Boostability",
+			"role": "Account Manager",
 			"dates": {
 				"start": 1408514400,
 				"end": 1431669600
@@ -80,8 +82,8 @@
 			]
 		},
 		{
-			"company": "Bluehost",
-			"title": "Web Advisor",
+			"name": "Bluehost",
+			"role": "Web Advisor",
 			"dates": {
 				"start": 1357542000,
 				"end": 1402812000
@@ -92,8 +94,8 @@
 			]
 		},
 		{
-			"company": "Aviation University",
-			"title": "Jr. Systems Administrator",
+			"name": "Aviation University",
+			"role": "Jr. Systems Administrator",
 			"dates": {
 				"start": 1310968800,
 				"end": 1347948000
