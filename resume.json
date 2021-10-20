@@ -14,19 +14,25 @@
 	"education": [
 		{
 			"instituion": "Utah Valley University",
-			"start": 1440396000,
+			"dates": {
+				"start": 1440396000
+			},
 			"description": "Undergraduate of computer science and communication."
 		},
 		{
 			"instituion": "Provo High School",
-			"start": 1156140000,
-			"end": 1273903200,
+			"dates": {
+				"start": 1156140000,
+				"end": 1273903200
+			},
 			"description": "Graduate, with emphasis on design and technology."
 		},
 		{
 			"instituion": "Washington School of World Studies",
-			"start": 1128924000,
-			"end": 1129356000,
+			"dates": {
+				"start": 1128924000,
+				"end": 1129356000
+			},
 			"description": "Program graduate, with emphasis on history, leadership, and civil service."
 		}
 	],
@@ -37,7 +43,7 @@
 			"title": "Software Engineer",
 			"dates": {
 				"start": 1437631200,
-				"end": 1592805600,
+				"end": 1592805600
 			},
 			"responsibilities": [
 				"SaaS front-end software development",
