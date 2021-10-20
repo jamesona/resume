@@ -57,7 +57,7 @@
 			"title": "Web Application Developer",
 			"dates": {
 				"start": 1437631200,
-				"end": 1592546400,
+				"end": 1592546400
 			},
 			"responsibilities": [
 				"server-side software design and implementation",
@@ -72,7 +72,7 @@
 			"title": "Account Manager",
 			"dates": {
 				"start": 1408514400,
-				"end": 1431669600,
+				"end": 1431669600
 			},
 			"responsibilities": [
 				"SEO campaign research and management",
@@ -84,7 +84,7 @@
 			"title": "Web Advisor",
 			"dates": {
 				"start": 1357542000,
-				"end": 1402812000,
+				"end": 1402812000
 			},
 			"responsibilities": [
 				"customer server support",
@@ -96,7 +96,7 @@
 			"title": "Jr. Systems Administrator",
 			"dates": {
 				"start": 1310968800,
-				"end": 1347948000,
+				"end": 1347948000
 			},
 			"responsibilities": [
 				"process automation",
